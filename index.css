@@ -90,3 +90,10 @@ body {
   font-size: 24px;
   margin-left: 12px;
 }
+
+.dry-food {
+  font-weight: normal;
+  font-size: 24px;
+  margin-left: 10px;
+  text-align: left;
+}
