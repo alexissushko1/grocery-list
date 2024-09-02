@@ -97,3 +97,13 @@ body {
   margin-left: 10px;
   text-align: left;
 }
+
+ul {
+  margin-left: 2px;
+  margin-right: 2px;
+}
+
+ol {
+  margin-left: 2px;
+  margin-right: 2px;
+}
