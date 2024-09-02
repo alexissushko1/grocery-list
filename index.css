@@ -50,7 +50,7 @@ body {
 .pantry-picture {
   width: 100%;
   display: inline-block;
-  height: 250px;
+  height: 245px;
   margin-bottom: 0;
   vertical-align: bottom;
 }
@@ -61,6 +61,7 @@ body {
   margin-top: 0;
   width: 21%;
   vertical-align: bottom;
+  border: 3px solid black;
 }
 
 .full-pantry-list {
@@ -141,4 +142,21 @@ ol {
   font-size: 24px;
   margin-left: 10px;
   text-align: left;
+}
+
+.freezer-picture-section {
+  display: inline-block;
+  margin-bottom: 0;
+  margin-top: 0;
+  width: 21%;
+  vertical-align: bottom;
+  border: 3px solid black;
+}
+
+.freezer-picture {
+  width: 100%;
+  display: inline-block;
+  height: 245px;
+  margin-bottom: 0;
+  vertical-align: bottom;
 }
